@@ -9,6 +9,8 @@ This repository contains a 2D heat equation solver implemented in four variants:
 
 The project is designed for performance and scaling studies (strong, weak, and thread-to-thread) on Georgia Tech's PACE ICE cluster.
 
+The final report can be view here: [Final_Report](https://github.com/Kate-Qi/cse6230_FinalPJ_Qi/blob/main/cse6230%20Final%20Project%20Report%20-%20Qi.pdf)
+
 ---
 
 ## Repository Layout
