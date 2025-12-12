@@ -1,0 +1,4 @@
+n=500 steps=500 ranks=1 threads=8 time=0.491213 time_per_step=0.00098243 totalMemMB=3.81 memPerRankMB=3.81
+n=500 steps=500 ranks=2 threads=4 time=0.459734 time_per_step=0.00091947 totalMemMB=3.81 memPerRankMB=1.91
+n=500 steps=500 ranks=4 threads=2 time=0.465342 time_per_step=0.00093068 totalMemMB=3.81 memPerRankMB=0.95
+n=500 steps=500 ranks=8 threads=1 time=0.469757 time_per_step=0.00093951 totalMemMB=3.81 memPerRankMB=0.48

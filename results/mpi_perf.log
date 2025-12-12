@@ -1,0 +1,7 @@
+scenario=strong_n500 n=500 steps=500 ranks=2 time=0.297554 time_per_step=0.00059511 totalMemMB=3.81 avgMemPerRankMB=1.91
+scenario=strong_n500 n=500 steps=500 ranks=4 time=0.320956 time_per_step=0.00064191 totalMemMB=3.81 avgMemPerRankMB=0.95
+scenario=strong_n500 n=500 steps=500 ranks=8 time=0.370789 time_per_step=0.00074158 totalMemMB=3.81 avgMemPerRankMB=0.48
+scenario=weak n=250 steps=500 ranks=1 time=0.072138 time_per_step=0.00014428 totalMemMB=0.95 avgMemPerRankMB=0.95
+scenario=weak n=500 steps=500 ranks=2 time=0.297311 time_per_step=0.00059462 totalMemMB=3.81 avgMemPerRankMB=1.91
+scenario=weak n=1000 steps=500 ranks=4 time=1.216262 time_per_step=0.00243252 totalMemMB=15.26 avgMemPerRankMB=3.81
+scenario=weak n=2000 steps=500 ranks=8 time=4.881673 time_per_step=0.00976335 totalMemMB=61.04 avgMemPerRankMB=7.63

@@ -1,0 +1,8 @@
+n=500 steps=500 threads=1 time=0.379057 time_per_step=0.00075811 memMB=3.81
+n=500 steps=500 threads=2 time=0.386065 time_per_step=0.00077213 memMB=3.81
+n=500 steps=500 threads=4 time=0.403579 time_per_step=0.00080716 memMB=3.81
+n=500 steps=500 threads=8 time=0.435203 time_per_step=0.00087041 memMB=3.81
+n=1000 steps=500 threads=1 time=1.523820 time_per_step=0.00304764 memMB=15.26
+n=1000 steps=500 threads=2 time=1.533598 time_per_step=0.00306720 memMB=15.26
+n=1000 steps=500 threads=4 time=1.553427 time_per_step=0.00310685 memMB=15.26
+n=1000 steps=500 threads=8 time=1.590444 time_per_step=0.00318089 memMB=15.26

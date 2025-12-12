@@ -1,0 +1,20 @@
+=== OpenMP Heat Equation Solver ===
+Grid size: 500 x 500
+Time steps: 500
+Alpha: 0.10
+OpenMP threads: 4
+dx: 0.002004, dt: 0.000010, factor: 0.250000
+Step 0, max diff: 2.000000e+00
+Step 100, max diff: 9.365281e-02
+Step 200, max diff: 6.522534e-02
+Step 300, max diff: 5.284340e-02
+Step 400, max diff: 4.533921e-02
+
+=== Results ===
+Total time: 0.4036 seconds
+Time per step: 0.000807 seconds
+Final max diff: 3.991017e-02
+Approx memory used (2 grids shared across threads): 3.81 MB
+Total heat remaining: 2.617975e+05
+Symmetry error: 1.959947e+00
+Verification error: 1.959947e+00
